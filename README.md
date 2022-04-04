@@ -9,7 +9,7 @@ Inspired From Interruptor and this is nothing compare to what interruptor can do
 
 So Recommended to use Interruptor 
 ( https://github.com/FrenchYeti/interruptor 
-it support channel available at https://t.me/dexcalibur  )
+its support channel available at https://t.me/dexcalibur  )
 which is much much powerful than my noobish script
 
 
